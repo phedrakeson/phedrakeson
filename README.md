@@ -18,7 +18,7 @@
  📚 I’m currently learning UX/UI Design, HTML, CSS and Javascript
   </h4>
   <h4 align="center">
- 🚀 * "The deeper the journey into inner space, the further the possibilities in outer space." * - Curtis Tyrone Jones
+ 🚀 *"The deeper the journey into inner space, the further the possibilities in outer space."* - Curtis Tyrone Jones
   </h4>
   <h4 align="center">Technologies</h4>
 <p align="center">
