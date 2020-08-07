@@ -1,9 +1,13 @@
 <h1 align="center" >Welcome to my GitHub!</h1>
-<p align="center">
+<br>
+<img align="left" src="https://komarev.com/ghpvc/?username=phedrakeson&color=e8e8e8" alt="phedrakeson">
+<br>
+<p align="center"> 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabedev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>
 <a href="https://www.instagram.com/phedrakeson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/13696436/phedrakeson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow" height="20" width="20" /></a>
+
 </p>
   
 </p>
