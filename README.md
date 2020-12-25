@@ -1,34 +1,37 @@
-<h1 align="center" >Welcome to my GitHub!</h1>
-<br>
-<img align="left" src="https://komarev.com/ghpvc/?username=phedrakeson&color=e8e8e8" alt="phedrakeson">
-<br>
-<p align="center"> 
-<p align="center">
-<a href="https://www.linkedin.com/in/gabedev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>
-<a href="https://www.instagram.com/phedrakeson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/13696436/phedrakeson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow" height="20" width="20" /></a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-</p>
-  
+<p align="left"> 
+  Um jovem padawan na área de tecnologia, atualmente desenvolvendo soluções no Front-End e mergulhando fundo em todo esse ecossistema da tecnologia e do design!
+  Adoro compartilhar conhecimento e discutir sobre tecnologias, bora tomar um café?
 </p>
 
-<h4 align="center">
-  My name is <em>Gabriel</em>, I'm a student at Centro Universitário Leonardo da Vinci, currently studying Front-End Development and UX/UI Design.
-</h4>
-  <h4 align="center">
- 🎓 Graduating in Software Analysis and Development | 3rd Period 
-   </h4>
-  <h4 align="center">
- 📚 I’m currently learning UX/UI Design, HTML, CSS and Javascript
-  </h4>
-  <h4 align="center">
- 🚀 "The deeper the journey into inner space, the further the possibilities in outer space." - Curtis Tyrone Jones
-  </h4>
-  <h4 align="center">Technologies</h4>
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS e Javascript</strong>
 </p>
 
-------
+<p align="left">
+  💼 Ferramentas: <strong>Git e Github, VSCode, Netlify, Figma e AdobeXD</strong>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
+</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
+<p align="left">
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
+</p>
+
+<p align="left">
+  💌 Estou sempre disposto a colaborar em algum projeto, sinta-se livre em me chamar: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrield.developer@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabedev/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551989507407"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/phedrakeson/"/></a>
+</p>  
