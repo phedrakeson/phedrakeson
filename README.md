@@ -14,9 +14,8 @@
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
 </p>
 
-<p align="left">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
-</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
+
 
 <p align="left">
   💌 Estou sempre disposto a colaborar em algum projeto, sinta-se livre em me chamar: ⤵️
