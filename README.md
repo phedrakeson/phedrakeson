@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git e Github, VSCode, Netlify, Figma e AdobeXD</strong>
+  💼 Ferramentas: <strong>Git, VSCode, Netlify, Figma e AdobeXD</strong>
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
