@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS e Javascript</strong>
+  🦄 Estudando atualmente: <strong>HTML, CSS, Javascript, UX/UI Design e SEO & Analytics</strong>
 </p>
 
 <p align="left">
