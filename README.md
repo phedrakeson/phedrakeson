@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Estudando atualmente: <strong>HTML, CSS, Javascript, Typescript, Angular e UX/UI Design</strong>
+  🦄 Tecnologias: <strong>Angular, Typescript, SASS, SOA (Project Architecture), Node.js, Bootstrap e MaterialUI</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, VSCode, Figma e Adobe XD</strong>
+  💼 Ferramentas: <strong>Git, Bitbucket, Gitkraken, Postman, Figma e Adobe XD</strong>
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
