@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>Angular, Typescript, SASS, SOA (Project Architecture), Node.js, Bootstrap e MaterialUI</strong>
+  🦄 Tecnologias: <strong>Angular, Typescript, SASS, Node.js, Bootstrap e MaterialUI</strong>
 </p>
 
 <p align="left">
