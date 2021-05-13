@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, Bitbucket, Gitkraken, Postman, Figma e Adobe XD</strong>
+  💼 Ferramentas: <strong>Git, Postman, Figma e Adobe XD</strong>
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phedrakeson&show_icons=true&theme=dracula)
