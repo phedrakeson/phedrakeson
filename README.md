@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>Angular, Typescript, Javascript, SASS, Node.js, Bootstrap, Tailwind CSS, Electron.js e Testes Unitários com Jasmine + Karma.</strong>
+  🦄 Tecnologias: <strong>Angular, Javascript, Typescript, SASS, Node.js, Bootstrap, Tailwind CSS, Electron.js e Testes Unitários com Jasmine + Karma.</strong>
 </p>
 
 <p align="left">
